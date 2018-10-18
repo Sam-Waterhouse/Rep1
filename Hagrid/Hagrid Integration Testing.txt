@@ -1,0 +1,14 @@
+<# Components for testing
+
+    Database Tables
+    Rest APIs <PrimaryConnector> + <SecondaryConnector> + <Diplomat API>
+    Config Files?
+    
+
+    Tests to compete:
+        Test for the Databases - Use the config files to determine database names ect.
+        Look for instances of Diplomat
+        Tickets Primary -> Secondary Connector.
+        Cut connection to an API, ensure that Diplomat handles the downtime accordingly.
+
+#>
